@@ -1,6 +1,6 @@
 VERSION = 0.1
 
-ARCHIVE = zabbix-smsc-$(VERSION).tar.gz
+ARCHIVE = zabbix-smsru-$(VERSION).tar.gz
 
 .PHONY: all
 all: $(ARCHIVE)
